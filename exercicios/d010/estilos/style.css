@@ -16,8 +16,8 @@
     --cor5: #063d1e;
 
     --fonte-padrao:arial, Helvetica, sans-serif;
-    --fonte-destaque: 'Bebas Nue', cursive;
-    --fonte-android: 'Android', serif ;
+    --fonte-destaque: 'Bebas Nue';
+    --fonte-android: 'Android', times ;
 }
 
 * {

@@ -17,7 +17,7 @@
 
     --fonte-padrao:arial, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Nue', cursive;
-    --fonte-android: 'Android';
+    --fonte-android: 'Android', serif ;
 }
 
 * {

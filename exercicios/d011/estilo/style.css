@@ -50,6 +50,7 @@ a:hover{
 }
 main{
     background-color: white;
+    margin: auto;
 }
 main section{
     text-align: left, justify;
